@@ -1,0 +1,168 @@
+{
+  "sponsors": [
+    {
+      "id": 1,
+      "name": "Unstop",
+      "logo": "/unstop.png",
+      "type": "png"
+    }
+  ],
+  "partners": [
+    {
+      "id": 1,
+      "name": "",
+      "logo": "/code-hat.svg",
+      "type": "svg"
+    },
+    {
+      "id": 2,
+      "name": "",
+      "logo": "/Codecap community.jpg",
+      "type": "jpg"
+    },
+    {
+      "id": 3,
+      "name": "",
+      "logo": "/ML CHD Logo.png",
+      "type": "png"
+    },
+    {
+      "id": 4,
+      "name": "",
+      "logo": "https://lh3.googleusercontent.com/aida-public/AB6AXuAIpHi_gllKN1KhsQmdg5-Ezt3b5dRPj0ccUAXFCQKV1Wduhbo5NK9vKp5lEN6IjiJFQWumX03m2F3V53-lYJ9DrqVn7R2AAXtYaSzDMpLzGemqhudsSf4-BFfP6piCBKNpe_wSRtdUdCrP74zRWnk33m6b-BrP-nJG4kRRpr7Y-1iq3OTnJkN0WCRH87fUKW86OU4eH9T_MVVpRTrk46aqAqQunH8EMirP9iigWZmo1vtTA7on0Bdfp947YYHOoEu8qpJm-Te21bo",
+      "type": "url"
+    },
+    {
+      "id": 5,
+      "name": "",
+      "logo": "https://lh3.googleusercontent.com/aida-public/AB6AXuAoY6gWJJ5bfwshRenJGZOpVr1g5tCiVGpaY1C4kka2vOdoMeEPWOVLFfliq4c6PCmFQOM4dRwRrdyWDgCftSbMgevyn8KkHP63Y91Vs8gxFlIoTjr80J0Rmjixy2TUH71oQcVie7CVhawsFojnHkS7CsMpCYWEU15xV0Ac42fIfV2g2KPJiLqJsJprrcrOxK3FYTcivPQYyDKxObgle9fJ97ANYrHc5NHR4WqH7_wKus41n9qa1DPvsiK8FJjJGJzD3o4kxH57W4k",
+      "type": "url"
+    },
+    {
+      "id": 6,
+      "name": "",
+      "logo": "https://lh3.googleusercontent.com/aida-public/AB6AXuB_kHkk9QVPvtGUoAvtIAkIXLJPiDwsSYqNW86V8k816NzylXpGNeNZJtvnwJsmQL2mWosw8WcnQzycVUJncXphORyMMefIPloOo6Ijonk24baxx8iT6dnzGM80gL12DcbArAiPUawC3n9TPjmnOSymwvVKNol1i-00RkGpPrgF689kCDH4sM2l7HcAVmQ9Wko4EEY0Z0mfZrj4sAkMRz_n7jkKhBCftp6FTrdXyIPH-KsbZn21_lyy6LNNboEUFPe7nDV3VTTXj5U",
+      "type": "url"
+    },
+    {
+      "id": 7,
+      "name": "",
+      "logo": "/Stride Hub.jpg",
+      "type": "jpg"
+    },
+    {
+      "id": 8,
+      "name": "",
+      "logo": "/LOGO FINAL.png",
+      "type": "png"
+    },
+    {
+      "id": 9,
+      "name": "",
+      "logo": "/lastminuteengineering-logo.png",
+      "type": "png"
+    },
+    {
+      "id": 10,
+      "name": "",
+      "logo": "/hackshastra.png",
+      "type": "png"
+    },
+    {
+      "id": 11,
+      "name": "",
+      "logo": "/Gfg RBU.jpg",
+      "type": "jpg"
+    },
+    {
+      "id": 12,
+      "name": "",
+      "logo": "/Event Dev X .png",
+      "type": "png"
+    },
+    {
+      "id": 13,
+      "name": "",
+      "logo": "/DevPath.jpg",
+      "type": "jpg"
+    },
+    {
+      "id": 14,
+      "name": "",
+      "logo": "/Devhive.png",
+      "type": "png"
+    },
+    {
+      "id": 15,
+      "name": "",
+      "logo": "/AARVAK.png",
+      "type": "png"
+    },
+    {
+      "id": 16,
+      "name": "",
+      "logo": "/AITD.png",
+      "type": "png"
+    },
+    {
+      "id": 17,
+      "name": "",
+      "logo": "/ai_geeks.jpg",
+      "type": "jpg"
+    },
+    {
+      "id": 18,
+      "name": "",
+      "logo": "/ascentcircle.png",
+      "type": "png"
+    },
+    {
+      "id": 19,
+      "name": "",
+      "logo": "/Asuralegion.jpg",
+      "type": "jpg"
+    },
+    {
+      "id": 20,
+      "name": "",
+      "logo": "/codasauras.png",
+      "type": "png"
+    },
+    {
+      "id": 21,
+      "name": "",
+      "logo": "/CracKed.png",
+      "type": "png"
+    },
+    {
+      "id": 22,
+      "name": "",
+      "logo": "/Probcoder.png",
+      "type": "png"
+    },
+    {
+      "id": 23,
+      "name": "",
+      "logo": "/thehelper.jpg",
+      "type": "jpg"
+    },
+    {
+      "id": 24,
+      "name": "",
+      "logo": "/thestudentspot.jpg",
+      "type": "jpg"
+    },
+    {
+      "id": 25,
+      "name": "",
+      "logo": "/Novacoders.jpg",
+      "type": "jpg"
+    },
+    {
+      "id": 26,
+      "name": "",
+      "logo": "/youthspire (2).png",
+      "type": "png"
+    }
+  ]
+}
