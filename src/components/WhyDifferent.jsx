@@ -68,7 +68,7 @@ export default function WhyDifferent() {
         <AnimatedContainer className="mx-auto max-w-3xl text-center">
           <ScrollFloat animationDuration={1} ease="back.inOut(2)" stagger={0.1}>
             <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold-custom text-white text-center mb-8 sm:mb-10">
-              Why ECWoC is{" "}
+              Why DSoC is{" "}
               <span className="font-sans italic text-indigo-500">
                 different
               </span>
